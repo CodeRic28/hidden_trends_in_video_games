@@ -1,0 +1,13 @@
+Column,Description
+Rank,The ranking of the game in terms of global sales
+Game Title,The title of the game
+Platform,The platform the game was released on
+Year,The year the game was released
+Genre,The genre of the game
+Publisher,The publisher of the game
+North America,The sales of the game in North America
+Europe,The sales of the game in Europe
+Japan,The sales of the game in Japan
+Rest of World,The sales of the game in the rest of the world
+Global,The total global sales of the game
+Review,The review score of the game
