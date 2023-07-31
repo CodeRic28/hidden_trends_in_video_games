@@ -4,7 +4,7 @@
 - Clone the repository using `git clone https://github.com/CodeRic28/hidden_trends_in_video_games.git`
 - Run Google Colab
 - File > Open Notebook
-![Screenshot from 2023-07-31 14-45-08](https://github.com/CodeRic28/hidden_trends_in_video_games/assets/51741804/e27349e8-1911-477a-8465-71cf1d705eaa)
+- ![Screenshot from 2023-07-31 14-45-08](https://github.com/CodeRic28/hidden_trends_in_video_games/assets/51741804/e27349e8-1911-477a-8465-71cf1d705eaa)
 - Do not change the location of Datasets
 
 ![Screenshot from 2023-07-31 14-41-46](https://github.com/CodeRic28/hidden_trends_in_video_games/assets/51741804/19e834b6-08e7-4425-864c-700b19794f02)
